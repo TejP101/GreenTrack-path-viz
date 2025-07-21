@@ -15,7 +15,7 @@ while True:
             exit()
         
 
-    screen.fill(('Grey')) 
+    screen.fill(('Green')) 
 
     for row in range(grid_size):
         for col in range(grid_size):
