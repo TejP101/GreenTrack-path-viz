@@ -15,7 +15,7 @@ while True:
             exit()
         
 
-    screen.fill(('Green')) 
+    screen.fill(('Grey')) 
 
     for row in range(grid_size):
         for col in range(grid_size):
@@ -27,3 +27,5 @@ while True:
 
     clock.tick(60) 
     pygame.display.update()
+
+    #Barce>Real
